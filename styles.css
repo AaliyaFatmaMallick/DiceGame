@@ -1,5 +1,5 @@
 body{
-  background: linear-gradient(to right, #3f5efb, #fc466f);
+  background: #12343b;
 }
 
 
@@ -16,7 +16,7 @@ h1{
 }
 
 .dice-area{
-  margin: 0px;
+  margin: 0px 50px;
   text-align: center;
   display: inline-block;
 }
